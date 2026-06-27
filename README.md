@@ -1,1 +1,1 @@
-# PortScanner Pro\nProfessional project skeleton.\n
+# PortScanner 
